@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to SynergyBank Accounts Production API"
+  message: "Welcome to SynergyBank Accounts Prod API"
   contactDetails:
     name: "Sumit K- Product Owner"
     email: "sumit@test.com"
