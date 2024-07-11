@@ -10,7 +10,7 @@ build:
 accounts:
   message: "Welcome to Leave Prod API"
   contactDetails:
-    name: "Shailesh Rathod Product Owner"
+    name: "Shailesh and Shubham Product Owner"
     email: "shaileshgrathod0812@gmail.com"
   onCallSupport:
     - (555) 555-1234
